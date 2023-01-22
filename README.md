@@ -15,8 +15,6 @@ This Project is based on the Network Security to the users Folders to provide th
 
 ![image](https://user-images.githubusercontent.com/104744741/213939513-d5bd5ab1-ece1-40bc-9ad9-1890db030784.png)
 
-![image](https://user-images.githubusercontent.com/104744741/213939523-68a4de46-9f75-4cf8-a333-aa28370339ee.png)
-
 ![image](https://user-images.githubusercontent.com/104744741/213939538-185e4807-82e2-49c5-a1b1-b1d302493d18.png)
 
 ![image](https://user-images.githubusercontent.com/104744741/213939539-c9d41c6c-b94b-491c-b53f-7979535d904d.png)
