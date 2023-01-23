@@ -1,5 +1,5 @@
 # Network-Security-Project
-This Project is based on the Network Security to the users Folders to provide them full access on it.
+This Project is based on the Network Security for the users. i.e providing authorization to read or write data/files.
 
 ![image](https://user-images.githubusercontent.com/104744741/213939353-b697791c-2c31-43f6-8740-90d78ff9c434.png)
 
